@@ -1,0 +1,3 @@
+#linux resources
+
+#Pitfalls
